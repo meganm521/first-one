@@ -1,0 +1,1031 @@
+Description: 3 runway Unified 1 ton bridge, hoist, 33' span
+Business Case: For D947 move, wide span for improved layout and flow
+Project: Enable Grizzly D947 Move, AGAHX16100MS
+Requestor: Megan Mason 309-765-2083
+Quote # RM013017, total cost $11,902
+Supplier: American Fabricators and Engineers
+
+Description: Fluid fill downsize for transition housing
+Business Case: Downsize existing fluid fill equipment at 620 so it can be reused and fit in 925 workcenter after outsource of transition housing
+Project: Enable Grizzly D947 Move/D620 Outsource, AGAHX16100ES
+Requestor: Megan Mason 309-765-2083
+Quote # Q6896r1, total cost $7,330
+Supplier: Tri City Electric
+
+shopping cart # 1001095224
+
+Description: Transmission lift cart and contact charging station
+Business Case: Safety project to eliminate push forces involved with installation of transmission
+Project: AFE D925 Transmission Cart, AGAHX17305M1, 4060101000
+Requestor: Megan Mason 309-765-2083
+Quote # i4052-C-02, total quoted cost $119,483
+Supplier: TDS Doerfer
+
+shopping cart # 1001095230
+
+Description: Man Lift, Hydraulic Scissor Lift
+Business Case: Safety project to eliminate crouching or reaching postures involved with installation of transmission
+Project: AFE D925 Transmission Cart, AGAHX17305E1, 4010101000
+Requestor: Megan Mason 309-765-2083
+Quote # Qte1108179, total quoted cost $4,432
+Supplier: Barron Equipment
+
+shopping cart # 
+
+Description: Man Lift, Hydraulic Scissor Lift
+Business Case: Safety project to eliminate crouching or reaching postures involved with installation of hoses/harness. SERA score 18, CI tag.
+Project: HX01925, 925 CI project
+Requestor: Megan Mason 309-765-2083
+Quote # Qte1109695, total quoted cost $3,460
+Supplier: Barron Equipment
+
+shopping cart # 1001111632, PO # 4100507591
+
+Description: Hydraulic Filtration Units John Deere OLF 03
+Business Case: Additional filtration units to filter main engine gearcase circuit of oil. Will result in ability to filter all oil in combine system.
+Project: AFE Main Engine Gearcase Oil Filtering, AGAHX17307M1, 4060101000
+Requestor: Megan Mason 309-765-2083
+Quote # 12-12980, total quoted cost $18,340
+Supplier: Hydac
+
+shopping cart # 1001114575 PO # 
+
+Description: Overhead Conveyor Upgrade D925 conveyor 35
+Business Case: Enhanced capability for body conveyor so factor of safety is maintained for current as well as future body loads
+Project: AFE D925 OH Conveyor Upgrade, AGAHX17309M1, 4060101000
+Requestor: Megan Mason 309-765-2083
+Quote # 03032017 D952, total quoted cost $89,832
+Supplier: Automatic Systems, Inc.
+
+shopping cart # 1001114591 PO # 
+
+Description: 20 Nm Inline Transducer, IRTT-B 20A-06
+Business Case: Lowest torque inline transducer to be used for monitoring DC tooling torques at low end of torque spec
+Project: AFE Inline Transducer, AGAHX17302M1, 4060101000
+Requestor: Megan Mason 309-765-2083
+Quote # 17-0404-BD-IRTT, total quoted cost $4,437.57
+Supplier: Atlas Copco
+
+shopping cart # 1001118870 PO # 4100510862
+
+Description: Fluid fill downsize for D620- mechanical
+Business Case: Downsize existing fluid fill equipment at 620 so it can be reused and fit in 925 workcenter after outsource of transition housing- mechanical work
+Project: Enable Grizzly D947 Move/D620 Outsource, AGAHX16100ES
+Requestor: Megan Mason 309-765-2083
+Quote # 02032817, total cost $4,975
+Supplier: Northwest Mechanical
+
+shopping cart # 1001118902 PO # 4100510927
+
+Description: Locking Clamp for fixture CQ-915-PA
+Business Case: Improve and simplify locking of rear axle on assembly fixture, work order in for toolmaker to install
+Project: HX01947 CI Improvement
+Requestor: Megan Mason 309-765-2083
+Quote # CQ-915-PA, total quoted cost $401.16 for 3
+Supplier: Lapeer Manufacturing
+
+shopping cart # 1001122058 PO #
+
+Description: Lockout placards
+Business Case: Lockout placards for transmission move assets, 2 updated placards and 2 new placards
+Project: Enable Grizzly D947 Move, AGAHX16100ES
+Requestor: Megan Mason 309-765-2083
+Quote # Q21202, total cost $544
+Supplier: St. Claire
+
+shopping cart # 1001125630
+
+Description: Powered conveyor
+Business Case: Powered conveyor for rear axle assembly area, safety and efficiency improvements
+Project: D925 Rear Axle Powered Conveyor, AGAHX17313M1, 4060101000
+Requestor: Megan Mason 309-765-2083
+Quote # Qte1107903, total cost $37,896
+Supplier: Barron Equipment
+
+shopping cart # 1001134079
+
+Description: Powered conveyor electrical installation and controls
+Business Case: Powered conveyor for rear axle assembly area, safety and efficiency improvements
+Project: D925 Rear Axle Powered Conveyor, AGAHX17313M1, 4060101000
+Requestor: Megan Mason 309-765-2083
+Quote # Q6895r2, total cost $56,345
+Supplier: Tri City Electric
+
+shopping cart # 1001134080
+
+
+Description: Lockout placards
+Business Case: Lockout placards for rear axle move assets, 8 new and 5 revised placards
+Project: Enable Grizzly D947 Move, AGAHX16100ES
+Requestor: Megan Mason 309-765-2083
+Quote # Q21331, total cost $1385
+Supplier: St. Claire
+
+shopping cart # 
+
+Description: Body stands feasibility study
+Business Case: Engineering feasibility study to come to a firm design for combine body stands, safety project
+Project: HX01925
+Requestor: Megan Mason 309-765-2083
+Quote # P1703505, total cost $5,840
+Supplier: Simmers
+
+shopping cart # 1001149814
+
+Description: Gloves for touch screen devices
+Business Case: For wearable trials on shopfloor. 
+Project: HX01708, OFP Quality
+Requestor: Megan Mason on behalf of Brandon Johnson 309-748-0958
+Quote # P1703505, total cost $188.64
+Supplier: Vallen
+
+Description: GL 170296 Electrical Work
+Business Case: Safety project to eliminate crouching or reaching postures involved with installation of transmission
+Project: HX01925, 925 CI project
+Requestor: Megan Mason 309-765-2083
+Quote # 4784-319, total quoted cost $1,421
+Supplier: Tri City Electric
+
+Description: GL 170296 Millwright Work
+Business Case: Safety project to eliminate crouching or reaching postures involved with installation of transmission
+Project: HX01925, 925 CI project
+Requestor: Megan Mason 309-765-2083
+Quote # 4784-319, total quoted cost $858
+Supplier: Paramount Millwright Services
+
+Description: SR Global 400 controller and 1250-Exacta wrenches
+Business Case: Torque controlled tooling for heavy repair operations
+Project: D924 Fail Proof Repair Tools, AGAHX17310M10
+Requestor: Megan Mason 309-765-2083, Brandon Johnson
+Quote # 9564JB, total quoted cost $14,597.92
+Supplier: ToolHouse
+
+Description: SR Wrench adapters, heads and extensions
+Business Case: Torque controlled tooling for heavy repair operations
+Project: D924 Fail Proof Repair Tools, AGAHX17310M10
+Requestor: Megan Mason 309-765-2083, Brandon Johnson
+Quote # 9596KM, total quoted cost $1,332.58
+Supplier: ToolHouse
+
+Description: Crane stationary transducers, controllers and joint kits
+Business Case: Torque verification in station for critical applications with specialized offset heads
+Project: Fixed Transducers, AGAHX17319M1, 4060101000
+Requestor: Megan Mason 309-765-2083
+Quote # 7442JB, total quoted cost $30,760.05
+Supplier: ToolHouse
+
+Description: Special socket 53579MD015
+Business Case: Special deep socket for axle bolts, efficiency improvement
+Project: HX01925, 4010401000
+Requestor: Megan Mason 309-765-2083
+Quote # m1335 from Universal Tool. Not a preferred supplier so quoted through Vallen. Total cost cost $664.77
+Supplier: Vallen
+
+Description: Cotterman ladder 3WP3648RLA3
+Business Case: Replacing pieced-together ladder with custom one that has larger wheels for rolling over floor track
+Project: HX01925, 4010401000
+Requestor: Megan Mason 309-765-2083
+Total cost cost $868.60
+Supplier: Vallen
+
+shopping cart # 1001167675
+
+Description: Accordion Skirt 60014601R
+Business Case: Accordion skirt kit for man lift for safety CI project in 925
+Project: HX01925, 4010401000
+Requestor: Megan Mason 309-765-2083
+Total cost cost $580
+Supplier: Barron Equipment
+
+shopping cart # 1001168951
+
+Description: Miller Edge Pressure Sensors
+Business Case: Pressure sensors for safety on rear axle tilt table
+Project: Enable Grizzly D947 Move, AGAHX16110US
+Requestor: Megan Mason 309-765-2083
+Quote # online, total cost $386.22
+Supplier: Vallen
+
+shopping cart # 1001171728
+
+Description: 925 Electrical Work
+Business Case: Data and power drop for stationary transducer in 92575 rear axle area
+Project: Stationary Transducers AFE AGAHX17319M1
+Requestor: Megan Mason 309-765-2083
+Quote # 8541, total quoted cost $2,053
+Supplier: Tri City Electric
+
+
+Description: Body Stand Engineering Analysis
+Business Case: Engineering analysis to specify load rating of existing welded stands given combine load
+Project: HX01925, 4010401000
+Requestor: Megan Mason 309-765-2083
+Total cost cost $2,000
+Supplier: Shoemaker & Haaland
+
+shopping cart # 1001185685
+
+Description: GL 170400 Concrete Work
+Business Case: Jib foundation for 92557 to enable axles to be installed prior to turntable
+Project: HX01925, 4010401000
+Requestor: Megan Mason 309-765-2083
+Total cost cost $4,885
+Supplier: Curry Construction
+
+shopping cart # 1001188626
+
+Description: GL 170400 Mechanical Work
+Business Case: Jib relocation for 92557 to enable axles to be installed prior to turntable, move air system that is in the way of axle tires
+Project: HX01925, 4010401000
+Requestor: Megan Mason 309-765-2083
+Total cost cost $6,200
+Supplier: Northwest Mechanical
+
+shopping cart # 1001188629
+
+
+Description: Fabricate Stand for Body for 92557
+Business Case: Fabricate body stand for 92557 to enable axles to be installed prior to turntable
+Project: HX01925, 4010401000
+Requestor: Megan Mason 309-765-2083
+Total cost cost $5,000
+Supplier: Paramount Millwright Services
+
+shopping cart #1001188660
+
+
+Description: Millwright services for transmission cart 
+Business Case: Transmission cart for improved safety and ergo process
+Project: AGAHX17305M2, 40601010000
+Requestor: Megan Mason 309-765-2083
+Total cost $5,000
+Supplier: Paramount Millwright Services
+
+shopping cart # 1001197260
+
+Description: Millwright services for axle powered conveyor 
+Business Case: Powered conveyor for improved safety and ergo process, productivity improvement
+Project: AGAHX17313M6, 40601010000
+Requestor: Megan Mason 309-765-2083
+Total cost $4,919
+Supplier: Paramount Millwright Services
+
+shopping cart # 1001197248
+
+Description: Electrical services for axle powered conveyor 
+Business Case: Powered conveyor for improved safety and ergo process, productivity improvement
+Project: AGAHX17313M6, 40601010000
+Requestor: Megan Mason 309-765-2083
+Total cost $4,365
+Supplier: Tri City Electric
+
+shopping cart # 1001197226
+
+Description: Concrete grind services
+Business Case: Transmission cart for improved safety and ergo process
+Project: AGAHX17305M2, 40601010000
+Requestor: Megan Mason 309-765-2083
+Total cost $4,280
+Supplier: Curry Construction
+
+shopping cart # 
+
+Description: Concrete services for transmission cart 
+Business Case: Transmission cart for improved safety and ergo process
+Project: AGAHX17305M2, 40601010000
+Requestor: Megan Mason 309-765-2083
+Total cost $17,331
+Supplier: Curry Construction
+
+shopping cart # 
+
+Description: Electrical services for transmission cart 
+Business Case: Transmission cart for improved safety and ergo process
+Project: AGAHX17305M2, 40601010000
+Requestor: Megan Mason 309-765-2083
+Total cost $6,543
+Supplier: Tri City Electric
+
+shopping cart # 
+
+Description: Smart Torque Reaction Arm 08141752B
+Business Case: Enhanced torque control for 4 bolt flange joint at transmission
+Project: AGAHX17335M1, 40601010000
+Requestor: Megan Mason 309-765-2083
+Total cost $32,995
+Supplier: Golberg Companies, Inc (GCI)
+Terms 40% down, supplier will invoice for services completed for end of FY17
+
+Description: Laser measurement sensors, cables, brackets
+Business Case: Axle fixture to accurately set toe angle and give operator feedback
+Project: AGAHX17324U1, 40601010000
+Requestor: Megan Mason 309-765-2083
+Total cost $5,669.25
+Supplier: Keyence
+
+shopping cart # 1001212873
+
+Description: Safety Scanner Cover SZ-VB21
+Business Case: Protect safety scanners on Powered Conveyor
+Project: AGAHX17313M6, 40601010000
+Requestor: Megan Mason 309-765-2083
+Total cost $357
+Supplier: Keyence
+
+shopping cart # 1001217159
+
+Description: DC torque tooling, controller, cables
+Business Case: Enhanced torque control for 4 bolt flange joint at transmission
+Project: AGAHX17335M1, 40601010000
+Requestor: Megan Mason 309-765-2083
+Total cost $21,862.34
+Supplier: Atlas Copco
+
+shopping cart # 1001219987
+
+Description: Laser measurement sensor amplifier
+Business Case: Axle fixture to accurately set toe angle and give operator feedback
+Project: AGAHX17324U1, 40601010000
+Requestor: Megan Mason 309-765-2083
+Total cost $529.25
+Supplier: Keyence
+
+IL-1050
+shopping cart # 
+
+
+Description: Southworth Lift Tables
+Models: LS2-48 (36"x84"); LS2-48 (36"x96")
+Business Case: Operator lift tables for axle assembly in D925; safety ergo improvement AFE
+Project: AGAHX17338M1, 40601010000
+Requestor: Megan Mason 309-765-2083
+Total cost $10,698
+$5,689 quoted each, deduct $340 for 115V option at 1 HP = $5,349 
+Supplier: Barron Equipment
+
+shopping cart # 
+
+LS2-48 (36"x84"); LS2-48 (36"x96") $5,689 quoted each = $5,349, deduct $340 for 115V option at 1 HP.
+
+Description: Overload Detection for Hoists
+Business Case: For axle fixture process, to prevent damage to fixture and parts from hoisting part out with clamps in place
+Project: Axle fixture AFE AGAHX17324U1, 40601010000
+Requestor: Megan Mason 309-765-2083
+Total cost $14,792
+Supplier: American Fabricators & Engineers
+
+shopping cart # 
+
+Description: Platform for transmission cart area
+Business Case: Specialty ladder that can roll across the 2" trench created by the transmission cart
+Project: Axle fixture AFE AGAHX17305M2, 40601010000
+Requestor: Megan Mason 309-765-2083
+Total cost $3,615.90
+Supplier: Vallen
+
+shopping cart # 
+
+Description: Hoses for MEG filtration 1 1/2"
+Business Case: Special length hoses for MEG filtration cart to reduce warranty on steering valve
+Project: MEG Filtration AFE AGAHX17307M1, 40601010000
+Requestor: Megan Mason 309-765-2083 on behalf of Anne Rose
+Total cost $203.84
+Supplier: Atlas Hydraulics
+
+shopping cart # 
+
+Description: Lockout placards
+Business Case: Lockout placards for hydro DC tooling assets, 2 new placards
+Project: AFE Hydro Motor DC AGAHX17335M1, 40601010000
+Requestor: Megan Mason 309-765-2083
+Quote # Q21824, total cost $280
+Supplier: St. Claire
+
+shopping cart # 
+
+Description: Lockout placards
+Business Case: Lockout placards for hydro DC tooling assets, 2 new placards
+Project: AFE Hydro Motor DC AGAHX17335M1, 40601010000
+Requestor: Megan Mason 309-765-2083
+Quote # Q21831, total cost $280
+Supplier: St. Claire
+
+shopping cart # 1001246542
+
+Description: Lifting device stand fab and mount
+Business Case: Stand to store and swap out large lifting devices for axle tire installation.
+Project: HX01925 CI
+Requestor: Megan Mason 309-765-2083
+Quote # 2576 for $2,113
+Supplier: Paramount Millwright Services
+
+shopping cart # 1001260219
+
+Description: Prox sensor and cable
+Business Case: Prox sensor and cable for DC tool jib arm to make sure arm is safely stored before line moves
+Project: AFE Hydro Motor DC AGAHX17335M1, 4060101000
+Requestor: Megan Mason 309-765-2083
+Supplier: Van Meter, total cost $146.48
+
+shopping cart # 1001261253
+
+Description: Positioner tooling and programming updates
+Business Case: Positioner tooling/programming update to gain flexibility of opening top and bottom clamps independently, streamline process and programming training to Deere employees
+Project: AFE Rotary Screen Positioner AGAHX17605M1, 4060101000
+Requestor: Megan Mason 309-765-2083
+Supplier: ALM, total cost $5,535
+
+shopping cart # 1001269832
+
+AGAHX17305M2
+
+Description: Hyster W60Z lift truck
+Business Case: Hyster pusher for rear axle installation, 48" long forks required to engage with axle cart platform
+Project: AFE Axle Hyster AGAHX18302M1, 4060101000
+Requestor: Megan Mason 309-765-2083
+Supplier: Hyster, total cost $9,546
+
+shopping cart # 1001299444
+
+
+
+Description: LoadMaster 3600 I-Bolt Measurement Device
+Business Case: Clamp load verification for critical bolted joints to be used by all C&F product lines.
+Project: AFE 251 Torq Clamp Equipment, CFATXU251ZM1, 4060101000
+Requestor: Megan Mason 563-388-4278
+Supplier: Load Control Technologies, total cost $29,500
+
+shopping cart # 	1001482735
+PO # 4100695358
+
+One-Time PO
+Description: Hardware strip and re-plate Zinc Nickel
+Business Case: Prototype hardware to be used in joint study for critical joints, need to understand low friction hardware impact.
+Project: Joint Studies, CFI0Z00001, G/L 4040803000
+Requestor: Megan Mason 563-388-4278
+Supplier: Gatto Industrial Platers, total cost $8,000
+
+shopping cart # 	
+PO # 
+
+Description: Stanley DC Electric Equipment
+Business Case: Joint study development for critical bolted joints to be used by all C&F product lines.
+Project: AFE 300 Joint Study DC Equipment, CFATXY300ZA1, 4060101000
+Requestor: Megan Mason 563-388-4278
+Supplier: Air Automation Engineering, total cost $18,974
+
+shopping cart # 	1001563214
+PO # 
+
+
+Taps to make fixtures for bolted joint studies for Zinc Nickel Project. 
+Supplier: Vallen
+To be delivered to John Deere Davenport Works, Dock 11 attn Harry Gorman
+Requested by Megan Mason
+
+
+Aluminum material to make fixtures for bolted joint studies for Zinc Nickel Project. 
+Supplier: McMaster-Carr
+To be delivered to John Deere Dubuque Works, 17876 Peru Road, E91 C/O John Deere Dubuque Works, Attention: Jon Hermsen
+Requested by Megan Mason
+
+
+
+Design work to make fixtures for bolted joint studies for Zinc Nickel Project. Purchase order to tie to build orders for the X-Shop
+Supplier: Entegee #026658
+Not to Exceed $4,950
+Requested by Megan Mason
+
+
+Description: Tool station jib and balancer
+Business Case: Joint study development for critical bolted joints to be used by all C&F product lines.
+Project: AFE 300 Joint Study DC Equipment, CFATXY300ZA1, 4060101000
+Requestor: Megan Mason 563-388-4278
+Supplier: ToolHouse, total cost $1,784.11
+
+
+Material to make fixtures for bolted joint studies for Zinc Nickel Project. 
+Supplier: McMaster-Carr
+IMD reference: IMD352369, IMD355998, IMD353226, IMD352481, IMD356045, IMD356172
+To be delivered to John Deere Davenport Works, Dock 11 attn Harry Gorman
+Requested by Megan Mason
+
+
+
+Description: Build and Material for Fixtures
+Business Case: Testing fixtures to be used in joint study for critical joints, need to understand low friction hardware impact.
+IMD reference: IMD352651, IMD354853, IMD352859, IMD352877, IMD352467, IMD356852
+Project: Joint Studies, CFI0Z00007, G/L 4010101000
+Requestor: Megan Mason 563-388-4278
+Supplier: Douglas Machine Vendor # 1943, total cost $18,541.40
+
+N17600000
+
+
+
+Material to make fixtures for bolted joint studies for Zinc Nickel Project. 
+Supplier: Alro
+IMD reference: IMD352369, IMD355998, IMD353226, IMD352481, IMD356045, IMD356172
+To be delivered to John Deere Davenport Works, Dock 11 attn Harry Gorman
+Requested by Megan Mason
+
+
+Material to make fixtures for bolted joint studies for Zinc Nickel Project. 
+Supplier: McMaster-Carr
+IMD reference: IMD353377, IMD353553
+To be delivered to John Deere Dubuque Works, 17876 Peru Road, E91 C/O John Deere Dubuque Works, Attention: Jon Hermsen
+Requested by Megan Mason
+
+
+Drills to make fixtures for bolted joint studies for Zinc Nickel Project. 
+Supplier: Vallen
+To be delivered to John Deere Davenport Works, Dock 11 attn Harry Gorman
+Requested by Megan Mason
+
+
+Material to make fixtures for bolted joint studies for Zinc Nickel Project. 
+Supplier: Alro; Quote # 81639554
+IMD reference: IMD354574, IMD354607, IMD354862, IMD354942, IMD355415, IMD354959
+To be delivered to Eagle Engineering, 2701 S 1st St, Eldridge, IA 52748
+Requested by Megan Mason
+
+Material to make fixtures for bolted joint studies for Zinc Nickel Project. 
+Supplier: Alro; Quote # 81638998
+IMD reference: IMD352851, IMD353571, IMD353567, IMD354364, IMD354475, IMD354571
+To be delivered to John Deere Dubuque Works, 17876 Peru Road, Dubuque, IA. 
+Ship to E91 C/O John Deere Dubuque Works
+Requested by Megan Mason
+
+
+E91 C/O John Deere Dubuque Works
+17876 Peru Road
+Jon Hermsen
+
+
+Description: Build for Fixtures
+Business Case: Testing fixtures to be used in joint study for critical joints, need to understand low friction hardware impact.
+IMD reference: IMD354574, IMD354607, IMD354862, IMD354942, IMD355415, IMD354959
+Project: Joint Studies, CFI0Z00007, G/L 4010101000
+Requestor: Megan Mason 563-388-4278
+Supplier: Eagle Engineering Vendor # 38246, total cost $3168.00
+
+N17600000
+
+
+Description: Hardware I-Bolt Preparation and Calibration
+Business Case: Testing hardware to be used in Forestry joint study for critical joints, need to understand low friction hardware impact.
+Parts for KBL: 19H3971
+Project: Joint Studies, CFI0C07321, G/L 4010101000
+Requestor: Megan Mason 563-388-4278
+Supplier: Innovation Plus LLC Vendor # 332157, total cost $5,375
+
+
+Material to make fixtures for bolted joint studies for Zinc Nickel Project. 
+Supplier: McMaster-Carr
+IMD reference: IMD354838, IMD352537, IMD352535, IMD354856, IMD352982, IMD352489, IMD353310, IMD353345
+To be delivered to Eagle Engineering, 2701 S 1st St, Eldridge, IA 52748
+Requested by Megan Mason
+
+
+Description: Build for Fixtures
+Business Case: Testing fixtures to be used in joint study for critical joints, need to understand low friction hardware impact.
+IMD reference: IMD354838, IMD352537, IMD352535, IMD354856, IMD352982, IMD352489, IMD353310, IMD353345
+Project: Joint Studies, CFI0Z00007, G/L 4010101000
+Requestor: Megan Mason 563-388-4278
+Supplier: Eagle Engineering Vendor # 38246, total cost $9498.00
+
+
+Material to make fixtures for bolted joint studies for Zinc Nickel Project. 
+Supplier: Alro, Quote # 081715665
+IMD reference: IMD354838, IMD352537, IMD352535, IMD354856, IMD352982, IMD352489, IMD353310, IMD353345
+To be delivered to Eagle Engineering, 2701 S 1st St, Eldridge, IA 52748
+Requested by Megan Mason
+
+
+Material to make fixtures for bolted joint studies for Zinc Nickel Project. 
+Supplier: Alro, Quote # 081843478
+IMD reference: IMD352369, IMD355998, IMD353226, IMD352481, IMD356045, IMD356172
+To be delivered to John Deere Davenport Works, Dock 11 attn Harry Gorman
+Requested by Megan Mason
+
+Material to make fixtures for bolted joint studies for Zinc Nickel Project. 
+Supplier: Alro, Quote # 081984425
+IMD reference: IMD356172
+To be delivered to John Deere Davenport Works, Dock 11 attn Harry Gorman
+Requested by Megan Mason
+
+Material to make fixtures for bolted joint studies for Zinc Nickel Project. 
+Supplier: McMaster-Carr
+IMD reference: IMD352369
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+Material to make fixtures for bolted joint studies for Zinc Nickel Project. 
+Supplier: Alro
+IMD reference: IMD356045, IMD356172
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+Description: Build for Fixtures
+Business Case: Testing fixtures to be used in joint study for critical joints, need to understand low friction hardware impact.
+IMD reference: IMD352851, IMD352856, IMD353571, IMD352817, IMD353567, IMD354364, IMD354475, IMD354571, IMD353377
+Project: Joint Studies, CFI0Z00007, G/L 4010101000
+Requestor: Megan Mason 563-388-4278
+Supplier: Eagle Engineering Vendor # 38246, total cost $12468.00
+
+Material to make fixtures for bolted joint studies for Zinc Nickel Project. 
+Supplier: Alro
+IMD reference: IMD356045, IMD356172
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+Material to make fixtures for bolted joint studies for Zinc Nickel Project. 
+Supplier: Alro
+IMD reference: IMD356045, IMD356172
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+N17504000
+CFI0Z00007
+4010101000
+Devon, Dan Wild
+
+
+Description: Build for Fixtures
+Business Case: Testing fixtures to be used in joint study for critical joints, need to understand low friction hardware impact.
+IMD reference: IMD365034, IMD365205, IMD365435
+Project: Joint Studies, CFI0Z00007, G/L 4010101000
+Requestor: Megan Mason 563-388-4278
+Supplier: Eagle Engineering Vendor # 38246, total cost $15469.00
+
+Description: Build for Fixtures
+Business Case: Testing fixtures to be used in joint study for critical joints, need to understand low friction hardware impact.
+IMD reference: IMD364979, IMD365078, IMD365080, IMD365434, IMD365438, IMD365211 (DUCTILE ONLY), IMD365243 (DUCTILE ONLY)
+Project: Joint Studies, CFI0Z00007, G/L 4010101000
+Requestor: Megan Mason 563-388-4278
+Supplier: Douglas Machine Vendor # 1943, total cost $17080.00
+
+Description: Hardware I-Bolt Preparation and Calibration
+Business Case: Testing hardware to be used in joint study for critical joints, need to understand low friction hardware impact.
+Project: Joint Studies, CFI0Z00007, G/L 4010101000
+Requestor: Megan Mason 563-388-4278
+Supplier: Innovation Plus LLC Vendor # 332157, total cost $33,100
+
+
+Material to make fixtures for bolted joint studies for UCL counterweight joint cost reduction. 
+Supplier: Alro
+IMD reference: IMD370613
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+N17504000
+1 1/4x2 1/4x22" 4140-4142 saw cut
+supplier 15883
+
+Description: Stanley DC Electric Equipment-Cable
+Business Case: Joint study development for critical bolted joints to be used by all C&F product lines. Replacement tool cable, was damaged during testing.
+Project: TX01951, 4010401000
+Requestor: Megan Mason 563-388-4278
+Supplier: Air Automation Engineering, total cost $1,441
+
+Description: Drill Holes for Fixtures
+Business Case: Testing fixtures to be used in joint study for standard joints, need to understand low friction hardware impact.
+Project: Joint Studies, CFI0Z00007, G/L 4010101000
+Requestor: Megan Mason 563-388-4278
+Supplier: Douglas Machine Vendor # 1943, total estimated cost $1960
+
+
+Description: Atlas Copco DC Electric Equipment-Reaction bar
+Business Case: Joint study development for critical bolted joints to be used by all C&F product lines. Replacement reaction bar to replace torque crib model that was borrowed and modified for testing.
+Project: TX01951, 4010401000
+Requestor: Megan Mason 563-388-4278
+Supplier: Atlas Copco, total cost $1,619.78
+
+Description: Specialty hardware print review 
+Business Case: Specialty print part review for supplier manufacturability of new zinc nickel hardware parts for zinc nickel project
+Project: Zinc Nickel Joint Studies, CFI0Z00007, G/L 4010101000
+Requestor: Megan Mason 563-388-4278
+Supplier: Bossard # 2666, total quoted cost $510
+
+
+PO #1
+Material (1018, 1045, 8620 steel) to make fixtures for ADT bolted joint studies for Zinc Nickel Project. 
+Supplier: Alro
+Project: ADT Joint Studies, CFI0A00687, G/L 4010101000
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+PO #2
+Material (A572-50 steel) to make fixtures for ADT bolted joint studies for Zinc Nickel Project. 
+Supplier: Alro
+Project: ADT Joint Studies, CFI0A00687, G/L 4010101000
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+PO #3
+Material (80-55-06 durabar, ASTM A514 steel) to make fixtures for ADT bolted joint studies for Zinc Nickel Project. 
+Supplier: Alro
+Project: ADT Joint Studies, CFI0A00687, G/L 4010101000
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+N17504000
+supplier 15883
+
+PO #1
+Batch #1, Strip phos, apply zn/ni JDMF26A, TT test
+
+Zinc Nickel hardware barrel plating for ADT bolted joint studies for Zinc Nickel Project. 
+Batch #1, Strip phos and oil screw, apply zinc nickel JDM F26A, torque tension test
+Part # R100357, R114105
+Supplier: Chem-Plate #374984
+Quote # 30041
+Project: ADT Joint Studies, CFI0A00687, G/L 4010101000
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+PO #2
+Batch #3, Strip zn/flk, apply zn/ni JDMF26A
+
+Zinc Nickel hardware barrel plating for ADT bolted joint studies for Zinc Nickel Project. 
+Batch #3, Strip zinc flake nut, apply zinc nickel JDM F26A
+Part # 14M7772, 14M7831
+Supplier: Chem-Plate #374984
+Quote # 30042
+Project: ADT Joint Studies, CFI0A00687, G/L 4010101000
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+PO #3
+Batch #4, Strip zn, apply zn/ni JDMF26A
+
+Zinc Nickel hardware barrel plating for ADT bolted joint studies for Zinc Nickel Project. 
+Batch #4, Strip zinc nut, apply zinc nickel JDM F26A
+Part # 14M7277, 14M7278, 14M7291
+Supplier: Chem-Plate #374984
+Quote # 30043
+Project: ADT Joint Studies, CFI0A00687, G/L 4010101000
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+PO #4
+Batch #5, Strip zn/flk, apply zn/ni JDMF26A
+
+Zinc Nickel hardware barrel plating for ADT bolted joint studies for Zinc Nickel Project. 
+Batch #5, Strip zinc flake screw, apply zinc nickel JDM F26A
+Part # 19M10067, 19M9871
+Supplier: Chem-Plate #374984
+Quote # 30044
+Project: ADT Joint Studies, CFI0A00687, G/L 4010101000
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+PO #5
+Batch #7, Strip zn, apply zn/ni JDMF26A, TT test
+
+Zinc Nickel hardware barrel plating for ADT bolted joint studies for Zinc Nickel Project. 
+Batch #7, Strip zinc screw, apply zinc nickel JDM F26A, torque tension test
+Part # 19M7759, 19M7791, 19M7883, 19M7907, 19M7968, 19M8147, 19M8295, 19M9379
+Supplier: Chem-Plate #374984
+Quote # 30045
+Project: ADT Joint Studies, CFI0A00687, G/L 4010101000
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+PO #6
+Batch #8, Strip zn/flk, apply zn/ni JDMF26A
+
+Zinc Nickel hardware barrel plating for ADT bolted joint studies for Zinc Nickel Project. 
+Batch #8, Strip zinc flake washer, apply zinc nickel JDM F26A
+Part # T352427
+Supplier: Chem-Plate #374984
+Quote # 30046
+Project: ADT Joint Studies, CFI0A00687, G/L 4010101000
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+PO #7
+Batch #9, Strip zn, apply zn/ni JDMF26A
+
+Zinc Nickel hardware barrel plating for ADT bolted joint studies for Zinc Nickel Project. 
+Batch #9, Strip zinc washer, apply zinc nickel JDM F26A
+Part # 24M7349, 24M7351
+Supplier: Chem-Plate #374984
+Quote # 30047
+Project: ADT Joint Studies, CFI0A00687, G/L 4010101000
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+PO #8
+Batch #11, Strip mech zn, apply zn/ni JDMF26A
+
+Zinc Nickel hardware barrel plating for ADT bolted joint studies for Zinc Nickel Project. 
+Batch #11, Strip mechanical zinc washer, apply zinc nickel JDM F26A
+Part # 24M7241, 24M7242, A11667, N231749, T181070, T358052
+Supplier: Chem-Plate #374984
+Quote # 30048
+Project: ADT Joint Studies, CFI0A00687, G/L 4010101000
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+N17504000
+supplier 374984
+
+PO #1
+Batch #2, Strip zn, apply zn/ni JDMF26
+
+Zinc Nickel hardware rack plating for ADT bolted joint studies for Zinc Nickel Project. 
+Batch #2, Strip zinc apply zinc nickel JDM F26
+Part # 19M10347, 19M7781, 19M7893, 19M8817, 19M8976, T260782, T371969, T42977
+Supplier: Co-Operative Plating, ONETIMEUSD
+Quote # 775975
+Project: ADT Joint Studies, CFI0A00687, G/L 4010101000
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+PO #2
+Batch #1, Apply zn/ni JDMF26, no strip
+
+Zinc Nickel hardware rack plating for ADT bolted joint studies for Zinc Nickel Project. 
+Batch #2, Apply zinc nickel JDM F26, strip done by others
+Part # rack plating zinc strip and replate
+Supplier: Co-Operative Plating, ONETIMEUSD
+Quote # 775976
+Project: ADT Joint Studies, CFI0A00687, G/L 4010101000
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+N17504000
+
+PO #2
+Strip zinc flake from hardware
+
+Zinc flake stripping for ADT bolted joint studies for Zinc Nickel Project. 
+Strip zinc flake from hardware and send to Co-Operative Plating when complete.
+Part # 19M9146, 19M9797, T352422, T352426, T403283, T403991, T408378
+Supplier: CRW Finishing, ONETIMEUSD
+Quote # 0167888
+Project: ADT Joint Studies, CFI0A00687, G/L 4010101000
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+Steel machining for Zinc Nickel Project. 
+Strip zinc flake from hardware and send to Co-Operative Plating when complete.
+IMD402566, IMD402567
+Supplier: Douglas Machine, 1943
+Project: ADT Joint Studies, CFI0A00687, G/L 4010101000
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+
+PO #1
+Material (Durabar 80-55-06 steel) to make fixtures for Grader bolted joint studies for Zinc Nickel Project. 
+Supplier: Alro
+Quote # 89467706
+Project: Grader Joint Studies, CFI0P06897, G/L 4010401000
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+PO #2
+Material (1045 steel) to make fixtures for Grader bolted joint studies for Zinc Nickel Project. 
+Supplier: Alro
+Quote # 89467232
+Project: Grader Joint Studies, CFI0P06897, G/L 4010401000
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+PO #3
+Material (A36 steel) to make fixtures for Grader bolted joint studies for Zinc Nickel Project. 
+Supplier: Alro
+Quote # 89467427
+Project: Grader Joint Studies, CFI0P06897, G/L 4010401000
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+PO #4
+Material (A572-50 steel) to make fixtures for Grader bolted joint studies for Zinc Nickel Project. 
+Supplier: Alro
+Quote # 89467604
+Project: Grader Joint Studies, CFI0P06897, G/L 4010401000
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+PO #5
+Material (G2 Durabar gray cast steel) to make fixtures for Grader bolted joint studies for Zinc Nickel Project. 
+Supplier: Alro
+Quote # 89467321
+Project: Grader Joint Studies, CFI0P06897, G/L 4010401000
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+PO #6
+Material (A572-50 steel) to make fixtures for Grader bolted joint studies for Zinc Nickel Project. 
+Supplier: Alro
+Quote # 89488109
+Project: Grader Joint Studies, CFI0P06897, G/L 4010401000
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+N17504000
+supplier 15883
+
+Backhoe:
+
+PO #1
+Material (A-36 steel) to make fixtures for Backhoe bolted joint studies for Zinc Nickel Project. 
+Supplier: Alro
+Quote # XX
+Project: Backhoe Joint Studies, CFI0V02017 , G/L 4010401000
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+PO #2
+Material (A572-50 steel) to make fixtures for Backhoe bolted joint studies for Zinc Nickel Project. 
+Supplier: Alro
+Quote # XX
+Project: Backhoe Joint Studies, CFI0V02017 , G/L 4010401000
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+PO #3
+Material (CF C1018) to make fixtures for Backhoe bolted joint studies for Zinc Nickel Project. 
+Supplier: Alro
+Quote # XX
+Project: Backhoe Joint Studies, CFI0V02017 , G/L 4010401000
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+PO #4
+Material (Durabar 80-55-06 steel) to make fixtures for Backhoe bolted joint studies for Zinc Nickel Project. 
+Supplier: Alro
+Quote # XX
+Project: Backhoe Joint Studies, CFI0V02017 , G/L 4010401000
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+PO #5
+Material (G2 Durabar gray cast steel) to make fixtures for Backhoe bolted joint studies for Zinc Nickel Project. 
+Supplier: Alro
+Quote # XX
+Project: Backhoe Joint Studies, CFI0V02017 , G/L 4010401000
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+PO #1
+Material (A-36 HR steel) to make fixtures for Backhoe bolted joint studies for Zinc Nickel Project. 
+Supplier: Alro
+Quote # 089488987
+Project: Backhoe Joint Studies, CFI0V02017 , G/L 4010401000
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+N17504000
+supplier 15883
+
+PO #1
+Material (A-36 HR steel) to make fixtures for Backhoe bolted joint studies for Zinc Nickel Project. 
+Supplier: Alro
+Quote # 089488987
+Project: Backhoe Joint Studies, CFI0V02017 , G/L 4010401000
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+PO #2
+Material (C1018 steel) to make fixtures for Backhoe bolted joint studies for Zinc Nickel Project. 
+Supplier: Alro
+Quote # 089778031
+Project: Backhoe Joint Studies, CFI0V02017 , G/L 4010401000
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+PO #3
+Material (A570-50 plate steel) to make fixtures for Backhoe bolted joint studies for Zinc Nickel Project. 
+Supplier: Alro
+Quote # 089778063
+Project: Backhoe Joint Studies, CFI0V02017 , G/L 4010401000
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+PO #4
+Material (G2 Dura-bar steel) to make fixtures for Backhoe bolted joint studies for Zinc Nickel Project. 
+Supplier: Alro
+Quote # 089778180
+Project: Backhoe Joint Studies, CFI0V02017 , G/L 4010401000
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+PO #5
+Material (80-55-06 Dura-bar steel) to make fixtures for Backhoe bolted joint studies for Zinc Nickel Project. 
+Supplier: Alro
+Quote # 089778207
+Project: Backhoe Joint Studies, CFI0V02017 , G/L 4010401000
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
+
+PO #6
+Material (1018, 80-55-06 Dura-bar, A572-50 steel) to make fixtures for Backhoe bolted joint studies for Zinc Nickel Project. 
+Supplier: Alro
+Quote # 089784083
+Project: Backhoe Joint Studies, CFI0V02017 , G/L 4010401000
+To be delivered to John Deere Davenport Works, Dock 11 attn Megan Mason
+Requested by Megan Mason
